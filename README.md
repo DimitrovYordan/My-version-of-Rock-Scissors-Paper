@@ -9,3 +9,5 @@ After feedback make a few changes.
 New to the game:
 Change some of rules in the game.
 After enter a number automatically go to next line, no need to push enter anymore.
+
+This video help me to do that: https://www.youtube.com/watch?v=ZuZXqJIpktQ
